@@ -1,0 +1,30 @@
+Brazilian Portuguese - Code Spell Checker
+
+
+Spelling Checker for Visual Studio Code
+
+
+Database Client
+
+
+Figma for VS Code
+
+
+htmltagwrap
+
+
+IntelliCode API Usage Examples
+
+
+Material Icon Theme
+
+
+Node.js Exec
+
+
+npm Intellisense
+
+
+Pacote de Idioma Português Brasileiro para VS Code
+
+

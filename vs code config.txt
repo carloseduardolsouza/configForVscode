@@ -1,0 +1,21 @@
+crtl + shift + p 
+
+configuraçoes de usuario JSON
+
+{
+
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 15,
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontLigatures": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Dracula",
+  "cSpell.language": "en,pt-BR,pt"
+
+}
