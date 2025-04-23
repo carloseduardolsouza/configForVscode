@@ -80,6 +80,3 @@ Você pode acessar o arquivo de configurações de duas formas:
 ---
 
 Com essas configurações e extensões, seu VSCode estará pronto para encarar projetos modernos com estilo e eficiência! 🚀
-```
-
-Se quiser que eu gere um `.md` para download, é só pedir!
