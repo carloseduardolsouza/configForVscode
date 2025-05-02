@@ -1,30 +1,25 @@
-Brazilian Portuguese - Code Spell Checker
-
-
-Spelling Checker for Visual Studio Code
-
-
 Database Client
 
+Database Client JDBC
 
-Figma for VS Code
+Dracula Theme Official
 
+ESLint
 
-htmltagwrap
-
+GitLens — Git supercharged
 
 IntelliCode API Usage Examples
 
-
 Material Icon Theme
-
 
 Node.js Exec
 
-
 npm Intellisense
 
+Polacode
 
-Pacote de Idioma Português Brasileiro para VS Code
+Portuguese (Brazil) Language Pack for Visual
 
+Prettier - Code formatter
 
+Simple React Snippets
